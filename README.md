@@ -77,7 +77,7 @@
 ## 系统截图
 
 管理员：
-<img width="956" alt="beed7f9b3031d458b052984e78a6a48" src="https://github.com/user-attachments/assets/c4893d93-fe5b-4da0-87e0-5eabfaf9b38b" />
+![image](https://github.com/user-attachments/assets/6fe30654-ae74-4208-8497-a4e3b0b8702b)
 
 <img width="956" alt="f0f30f6658d06602058768b6487d4d8" src="https://github.com/user-attachments/assets/6a4ef628-6bf3-46f0-9a26-044ac0ec0114" />
 
@@ -108,6 +108,8 @@
 
 ## 联系方式
 
-如有问题请联系 微信 
-<img width="1080" alt="2d5005d336f7052d1a1ed3450c77d9f" src="https://github.com/user-attachments/assets/194a4d04-675a-4b8c-af7a-f504fbda4464" />
+如有问题请联系 微信 zy1570550
+![16f8d372e1a7495ad104cb2b6471881](https://github.com/user-attachments/assets/c9f717a5-5246-4273-834a-d075bf5e4771)
+
+
 
